@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
 
@@ -37,8 +36,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Module: WM240-Software Engineering
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Fluency in the process of software development is a prerequisite to the study of much of the remainder of this programme. In order to use computers to solve cyber security problems effectively, students must be competent at reading and writing programs in multiple programming languages. In addition, they must be able to design and analyse algorithms, select appropriate paradigms, and utilize modern development and testing tools. This module brings together those fundamental concepts and skills related to the software development process. As such, this module provides a foundation for other software-oriented aspects of the programme: programming languages for cyber security, data science for algorithms and complexity in the cyber context, and the cyber context of software engineering. This module focuses on the cyber context of the entire software development process, identifying those concepts and skills that should be mastered in the first year of the programme. This includes the design and simple analysis of algorithms, fundamental programming concepts and data structures, and basic software development methods and tools. A significant feature of the module is the use of group development projects. A single programming language and development environment will be used to exemplify the abstract concepts being developed. There will necessarily be some significant proportion of the module's independent study time being spent gaining familiarity with the language and its associated environment.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
